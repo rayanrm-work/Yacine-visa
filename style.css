@@ -1419,6 +1419,14 @@
       .contact-form {
         padding: 25px;
       }
+          
+      .article-hero-content h1 {
+        font-size: 1.7em;
+      }
+
+      .article-body h2 {
+        font-size: 1.4em;
+      }
       
       .newsletter-form {
         flex-direction: column;
@@ -1449,6 +1457,14 @@
       
       .destination-info h3 {
         font-size: 1.3rem;
+      }
+          
+      .article-hero-content h1 {
+        font-size: 1.6em;
+      }
+
+      .article-body h2 {
+        font-size: 1.3em;
       }
       
       .testimonial-card {
