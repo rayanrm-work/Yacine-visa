@@ -185,6 +185,7 @@
       font-family: 'Playfair Display', serif;
       text-shadow: 0 2px 4px rgba(0,0,0,0.3);
       animation: fadeInDown 1s ease;
+      padding-top: 30px;
     }
 
     .hero p {
